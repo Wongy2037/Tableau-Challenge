@@ -7,6 +7,3 @@ The New York Citi Bike program is the largest bike sharing program in the United
 
 About the Tableau story board
 Link to Tableau story board: https://public.tableau.com/app/profile/wong.yiu.chung/viz/Citi_Bike_Analytics_16786568329670/Story1
-
-Cleaning the data
-The steps to clean the data are captured and documented in the citi_bike_cleaning.ipynb jupyter notebook file in this repository.
